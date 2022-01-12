@@ -1,0 +1,357 @@
+<directoria>
+	<nome>C:/DiretoriaTeste</nome>
+	<ficheiros>
+		<ficheiro>
+			<nome>Ficheiro_1.txt</nome>
+			<tamanho>51</tamanho>
+			<dataM>16.11.2021 10:04:36</dataM>
+		</ficheiro>
+		<ficheiro>
+			<nome>Ficheiro_2.txt</nome>
+			<tamanho>15</tamanho>
+			<dataM>16.11.2021 10:29:56</dataM>
+		</ficheiro>
+	</ficheiros>
+	<directorias>
+		<directoria>
+			<nome>D1</nome>
+			<directorias>
+				<directoria>
+					<nome>D11</nome>
+					<ficheiros>
+						<ficheiro>
+							<nome>fich11.txt.txt</nome>
+							<tamanho>46</tamanho>
+							<dataM>18.09.2017 17:43:06</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>fich11_1.txt.txt</nome>
+							<tamanho>46</tamanho>
+							<dataM>18.09.2017 17:43:06</dataM>
+						</ficheiro>
+					</ficheiros>
+				</directoria>
+				<directoria>
+					<nome>D12</nome>
+					<ficheiros>
+						<ficheiro>
+							<nome>fich12.txt.txt</nome>
+							<tamanho>46</tamanho>
+							<dataM>18.09.2017 17:43:06</dataM>
+						</ficheiro>
+					</ficheiros>
+				</directoria>
+			</directorias>
+		</directoria>
+		<directoria>
+			<nome>D2</nome>
+			<ficheiros>
+				<ficheiro>
+					<nome>fich2.txt - Cópia (2).txt</nome>
+					<tamanho>46</tamanho>
+					<dataM>18.09.2017 17:43:06</dataM>
+				</ficheiro>
+				<ficheiro>
+					<nome>fich2.txt - Cópia.txt</nome>
+					<tamanho>46</tamanho>
+					<dataM>18.09.2017 17:43:06</dataM>
+				</ficheiro>
+				<ficheiro>
+					<nome>fich2.txt.txt</nome>
+					<tamanho>46</tamanho>
+					<dataM>18.09.2017 17:43:06</dataM>
+				</ficheiro>
+				<ficheiro>
+					<nome>lixo2.txt</nome>
+					<tamanho>0</tamanho>
+					<dataM>19.09.2017 14:11:48</dataM>
+				</ficheiro>
+			</ficheiros>
+			<directorias>
+				<directoria>
+					<nome>D21</nome>
+				</directoria>
+			</directorias>
+		</directoria>
+		<directoria>
+			<nome>D3</nome>
+			<ficheiros>
+				<ficheiro>
+					<nome>Rem.txt</nome>
+					<tamanho>0</tamanho>
+					<dataM>19.09.2017 17:25:26</dataM>
+				</ficheiro>
+			</ficheiros>
+			<directorias>
+				<directoria>
+					<nome>D30</nome>
+				</directoria>
+				<directoria>
+					<nome>D31</nome>
+					<directorias>
+						<directoria>
+							<nome>D311</nome>
+							<ficheiros>
+								<ficheiro>
+									<nome>lixo2-3111234.txt</nome>
+									<tamanho>0</tamanho>
+									<dataM>19.09.2017 14:11:48</dataM>
+								</ficheiro>
+							</ficheiros>
+							<directorias>
+								<directoria>
+									<nome>D3111</nome>
+									<ficheiros>
+										<ficheiro>
+											<nome>lixo2-3111.txt</nome>
+											<tamanho>0</tamanho>
+											<dataM>19.09.2017 14:11:48</dataM>
+										</ficheiro>
+									</ficheiros>
+								</directoria>
+								<directoria>
+									<nome>D3112</nome>
+									<ficheiros>
+										<ficheiro>
+											<nome>lixo2_3112.txt</nome>
+											<tamanho>0</tamanho>
+											<dataM>19.09.2017 14:11:48</dataM>
+										</ficheiro>
+									</ficheiros>
+								</directoria>
+								<directoria>
+									<nome>D3113</nome>
+									<ficheiros>
+										<ficheiro>
+											<nome>lixo1_3113.txt</nome>
+											<tamanho>0</tamanho>
+											<dataM>19.09.2017 14:11:40</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>lixo2_3113.txt</nome>
+											<tamanho>0</tamanho>
+											<dataM>19.09.2017 14:11:48</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>lixo3_3113.txt</nome>
+											<tamanho>1692</tamanho>
+											<dataM>19.09.2017 14:17:10</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>lixo4_3113.txt</nome>
+											<tamanho>4681</tamanho>
+											<dataM>19.09.2017 15:43:42</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>lixo5_3113.txt</nome>
+											<tamanho>87</tamanho>
+											<dataM>19.09.2017 14:17:30</dataM>
+										</ficheiro>
+									</ficheiros>
+								</directoria>
+							</directorias>
+						</directoria>
+						<directoria>
+							<nome>D312</nome>
+						</directoria>
+					</directorias>
+				</directoria>
+				<directoria>
+					<nome>D32</nome>
+				</directoria>
+			</directorias>
+		</directoria>
+		<directoria>
+			<nome>POO</nome>
+			<directorias>
+				<directoria>
+					<nome>POO_15</nome>
+					<ficheiros>
+						<ficheiro>
+							<nome>notas15_v1.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>notas15_v2.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>notas15_v3.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+					</ficheiros>
+				</directoria>
+				<directoria>
+					<nome>POO_17</nome>
+					<ficheiros>
+						<ficheiro>
+							<nome>notas17_v1.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>notas17_v2.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>notas17_v3.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>notas17_v4.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>notas17_v5.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>notas17_v6.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>notas17_v7.txt</nome>
+							<tamanho>0</tamanho>
+							<dataM>04.01.2018 15:44:26</dataM>
+						</ficheiro>
+					</ficheiros>
+				</directoria>
+			</directorias>
+		</directoria>
+		<directoria>
+			<nome>WpfA1</nome>
+			<ficheiros>
+				<ficheiro>
+					<nome>WpfApplication1_WpfA1.sln</nome>
+					<tamanho>935</tamanho>
+					<dataM>01.06.2017 11:25:58</dataM>
+				</ficheiro>
+				<ficheiro>
+					<nome>WpfApplication1_WpfA1.v11.suo</nome>
+					<tamanho>28672</tamanho>
+					<dataM>01.06.2017 11:33:30</dataM>
+				</ficheiro>
+			</ficheiros>
+			<directorias>
+				<directoria>
+					<nome>WpfApplication1_WpfA1</nome>
+					<ficheiros>
+						<ficheiro>
+							<nome>App_WpfA1.config</nome>
+							<tamanho>187</tamanho>
+							<dataM>01.06.2017 11:25:28</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>App_WpfA1.xaml</nome>
+							<tamanho>326</tamanho>
+							<dataM>01.06.2017 11:25:28</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>App_WpfA1.xaml.cs</nome>
+							<tamanho>348</tamanho>
+							<dataM>01.06.2017 11:25:30</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>MainWindow_WpfA1.xaml</nome>
+							<tamanho>1466</tamanho>
+							<dataM>01.06.2017 11:31:40</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>MainWindow_WpfA1.xaml.cs</nome>
+							<tamanho>799</tamanho>
+							<dataM>01.06.2017 11:28:22</dataM>
+						</ficheiro>
+						<ficheiro>
+							<nome>WpfApplication1_WpfA1.csproj</nome>
+							<tamanho>4427</tamanho>
+							<dataM>01.06.2017 11:25:58</dataM>
+						</ficheiro>
+					</ficheiros>
+					<directorias>
+						<directoria>
+							<nome>bin_WpfA1</nome>
+							<directorias>
+								<directoria>
+									<nome>Debug_WpfA1</nome>
+									<ficheiros>
+										<ficheiro>
+											<nome>WpfApplication1Debug_WpfA1.exe</nome>
+											<tamanho>9728</tamanho>
+											<dataM>01.06.2017 11:31:42</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>WpfApplication1Debug_WpfA1.exe.config</nome>
+											<tamanho>187</tamanho>
+											<dataM>01.06.2017 11:25:28</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>WpfApplication1Debug_WpfA1.pdb</nome>
+											<tamanho>28160</tamanho>
+											<dataM>01.06.2017 11:31:42</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>WpfApplication1Debug_WpfA1.vshost.exe</nome>
+											<tamanho>22984</tamanho>
+											<dataM>01.06.2017 11:26:02</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>WpfApplication1Debug_WpfA1.vshost.exe.config</nome>
+											<tamanho>187</tamanho>
+											<dataM>01.06.2017 11:25:28</dataM>
+										</ficheiro>
+										<ficheiro>
+											<nome>WpfApplication1Debug_WpfA1.vshost.exe.manifest</nome>
+											<tamanho>490</tamanho>
+											<dataM>16.07.2016 11:44:20</dataM>
+										</ficheiro>
+									</ficheiros>
+								</directoria>
+							</directorias>
+						</directoria>
+						<directoria>
+							<nome>obj_WpfA1</nome>
+						</directoria>
+						<directoria>
+							<nome>Properties_WpfA1</nome>
+							<ficheiros>
+								<ficheiro>
+									<nome>AssemblyInfo_WpfA1.cs</nome>
+									<tamanho>2294</tamanho>
+									<dataM>01.06.2017 11:25:36</dataM>
+								</ficheiro>
+								<ficheiro>
+									<nome>Resources_WpfA1.Designer.cs</nome>
+									<tamanho>2860</tamanho>
+									<dataM>01.06.2017 11:25:36</dataM>
+								</ficheiro>
+								<ficheiro>
+									<nome>Resources_WpfA1.resx</nome>
+									<tamanho>5612</tamanho>
+									<dataM>01.06.2017 11:25:28</dataM>
+								</ficheiro>
+								<ficheiro>
+									<nome>Settings_WpfA1.Designer.cs</nome>
+									<tamanho>1102</tamanho>
+									<dataM>01.06.2017 11:25:36</dataM>
+								</ficheiro>
+								<ficheiro>
+									<nome>Settings_WpfA1.settings</nome>
+									<tamanho>201</tamanho>
+									<dataM>01.06.2017 11:25:28</dataM>
+								</ficheiro>
+							</ficheiros>
+						</directoria>
+					</directorias>
+				</directoria>
+			</directorias>
+		</directoria>
+	</directorias>
+</directoria>

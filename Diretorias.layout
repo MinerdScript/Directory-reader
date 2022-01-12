@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\Ficheiro.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="693" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="src\Directoria.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7015" topLine="171" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="8" />
+			<Collapse line="10" />
+			<Collapse line="16" />
+			<Collapse line="23" />
+			<Collapse line="29" />
+			<Collapse line="40" />
+			<Collapse line="45" />
+			<Collapse line="78" />
+			<Collapse line="81" />
+			<Collapse line="83" />
+			<Collapse line="104" />
+			<Collapse line="107" />
+			<Collapse line="112" />
+			<Collapse line="119" />
+			<Collapse line="121" />
+			<Collapse line="123" />
+			<Collapse line="129" />
+			<Collapse line="136" />
+			<Collapse line="139" />
+			<Collapse line="144" />
+			<Collapse line="151" />
+			<Collapse line="155" />
+			<Collapse line="159" />
+		</Folding>
+	</File>
+	<File name="include\XMLWriter.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="337" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Directoria.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1601" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="src\XMLReader.cpp" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3465" topLine="124" />
+		</Cursor>
+		<Folding>
+			<Collapse line="76" />
+			<Collapse line="87" />
+			<Collapse line="107" />
+			<Collapse line="111" />
+		</Folding>
+	</File>
+	<File name="include\SistemaFicheiros.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1775" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="src\SistemaFicheiros.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6284" topLine="220" />
+		</Cursor>
+		<Folding>
+			<Collapse line="220" />
+			<Collapse line="247" />
+			<Collapse line="262" />
+			<Collapse line="293" />
+		</Folding>
+	</File>
+	<File name="include\Ficheiro.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="489" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2501" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="include\ObjetoGeral.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\XMLWriter.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="595" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="include\XMLReader.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="356" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

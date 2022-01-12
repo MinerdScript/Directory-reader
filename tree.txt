@@ -1,0 +1,71 @@
+C:/DiretoriaTeste
+	|>Ficheiro_1.txt
+	|>Ficheiro_2.txt
+	|}D1
+	|	|}D11
+	|	|	|>fich11.txt.txt
+	|	|	->fich11_1.txt.txt
+	|	-}D12
+	|	 	->fich12.txt.txt
+	|}D2
+	|	|>fich2.txt - Cópia (2).txt
+	|	|>fich2.txt - Cópia.txt
+	|	|>fich2.txt.txt
+	|	|>lixo2.txt
+	|	-}D21
+	|}D3
+	|	|>Rem.txt
+	|	|}D30
+	|	|}D31
+	|	|	|}D311
+	|	|	|	|>lixo2-3111234.txt
+	|	|	|	|}D3111
+	|	|	|	|	->lixo2-3111.txt
+	|	|	|	|}D3112
+	|	|	|	|	->lixo2_3112.txt
+	|	|	|	-}D3113
+	|	|	|	 	|>lixo1_3113.txt
+	|	|	|	 	|>lixo2_3113.txt
+	|	|	|	 	|>lixo3_3113.txt
+	|	|	|	 	|>lixo4_3113.txt
+	|	|	|	 	->lixo5_3113.txt
+	|	|	-}D312
+	|	-}D32
+	|}POO
+	|	|}POO_15
+	|	|	|>notas15_v1.txt
+	|	|	|>notas15_v2.txt
+	|	|	->notas15_v3.txt
+	|	-}POO_17
+	|	 	|>notas17_v1.txt
+	|	 	|>notas17_v2.txt
+	|	 	|>notas17_v3.txt
+	|	 	|>notas17_v4.txt
+	|	 	|>notas17_v5.txt
+	|	 	|>notas17_v6.txt
+	|	 	->notas17_v7.txt
+	-}WpfA1
+	 	|>WpfApplication1_WpfA1.sln
+	 	|>WpfApplication1_WpfA1.v11.suo
+	 	-}WpfApplication1_WpfA1
+	 	 	|>App_WpfA1.config
+	 	 	|>App_WpfA1.xaml
+	 	 	|>App_WpfA1.xaml.cs
+	 	 	|>MainWindow_WpfA1.xaml
+	 	 	|>MainWindow_WpfA1.xaml.cs
+	 	 	|>WpfApplication1_WpfA1.csproj
+	 	 	|}bin_WpfA1
+	 	 	|	-}Debug_WpfA1
+	 	 	|	 	|>WpfApplication1Debug_WpfA1.exe
+	 	 	|	 	|>WpfApplication1Debug_WpfA1.exe.config
+	 	 	|	 	|>WpfApplication1Debug_WpfA1.pdb
+	 	 	|	 	|>WpfApplication1Debug_WpfA1.vshost.exe
+	 	 	|	 	|>WpfApplication1Debug_WpfA1.vshost.exe.config
+	 	 	|	 	->WpfApplication1Debug_WpfA1.vshost.exe.manifest
+	 	 	|}obj_WpfA1
+	 	 	-}Properties_WpfA1
+	 	 	 	|>AssemblyInfo_WpfA1.cs
+	 	 	 	|>Resources_WpfA1.Designer.cs
+	 	 	 	|>Resources_WpfA1.resx
+	 	 	 	|>Settings_WpfA1.Designer.cs
+	 	 	 	->Settings_WpfA1.settings

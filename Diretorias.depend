@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1638199713 source:d:\escola archive\poo\trabalhos\diretorias\main.cpp
+	<iostream>
+	"SistemaFicheiros.h"
+
+1638800452 source:d:\escola archive\poo\trabalhos\diretorias\src\directoria.cpp
+	"Directoria.h"
+
+1638800540 d:\escola archive\poo\trabalhos\diretorias\include\directoria.h
+	<list>
+	<string>
+	<iostream>
+	"ObjetoGeral.h"
+	"Ficheiro.h"
+
+1638270614 source:d:\escola archive\poo\trabalhos\diretorias\src\ficheiro.cpp
+	"Ficheiro.h"
+	"Directoria.h"
+
+1638800540 d:\escola archive\poo\trabalhos\diretorias\include\ficheiro.h
+	<string>
+	"ObjetoGeral.h"
+
+1638799998 source:d:\escola archive\poo\trabalhos\diretorias\src\sistemaficheiros.cpp
+	"SistemaFicheiros.h"
+
+1638453647 d:\escola archive\poo\trabalhos\diretorias\include\sistemaficheiros.h
+	<iostream>
+	<string>
+	<dirent.h>
+	<time.h>
+	<sys/stat.h>
+	"Directoria.h"
+	"Ficheiro.h"
+	"XMLWriter.h"
+	"XMLReader.h"
+
+1637771257 d:\escola archive\poo\trabalhos\diretorias\include\xmlwriter.h
+	<fstream>
+	"Directoria.h"
+	"Ficheiro.h"
+
+1637770278 source:e:\escola archive\poo\trabalhos\diretorias\main.cpp
+	<iostream>
+	"SistemaFicheiros.h"
+
+1637767062 e:\escola archive\poo\trabalhos\diretorias\include\sistemaficheiros.h
+	<iostream>
+	<string>
+	<dirent.h>
+	<time.h>
+	<sys/stat.h>
+	"Directoria.h"
+	"Ficheiro.h"
+	"XMLWriter.h"
+
+1637756432 e:\escola archive\poo\trabalhos\diretorias\include\directoria.h
+	<list>
+	<string>
+	<iostream>
+	"Ficheiro.h"
+
+1637771479 e:\escola archive\poo\trabalhos\diretorias\include\ficheiro.h
+	<string>
+
+1637771257 e:\escola archive\poo\trabalhos\diretorias\include\xmlwriter.h
+	<fstream>
+	"Directoria.h"
+	"Ficheiro.h"
+
+1637754741 source:e:\escola archive\poo\trabalhos\diretorias\src\directoria.cpp
+	"Directoria.h"
+
+1637771575 source:e:\escola archive\poo\trabalhos\diretorias\src\ficheiro.cpp
+	"Ficheiro.h"
+	"Directoria.h"
+
+1637771625 source:e:\escola archive\poo\trabalhos\diretorias\src\sistemaficheiros.cpp
+	"SistemaFicheiros.h"
+
+1637776436 source:e:\escola archive\poo\trabalhos\diretorias\src\xmlwriter.cpp
+	"XMLWriter.h"
+
+1637776436 source:d:\escola archive\poo\trabalhos\diretorias\src\xmlwriter.cpp
+	"XMLWriter.h"
+
+1638453601 d:\escola archive\poo\trabalhos\diretorias\include\xmlreader.h
+	<iostream>
+	<fstream>
+	"Directoria.h"
+	"Ficheiro.h"
+
+1638800717 d:\escola archive\poo\trabalhos\diretorias\include\objetogeral.h
+	<string>
+
+1638800540 source:d:\escola archive\poo\trabalhos\diretorias\src\objetogeral.cpp
+	"ObjetoGeral.h"
+
+1638800252 source:d:\escola archive\poo\trabalhos\diretorias\src\xmlreader.cpp
+	"XMLReader.h"
+
+1641740761 source:c:\users\mnrod\onedrive\documentos\github\diretorias\main.cpp
+	<locale>
+	<iostream>
+	"SistemaFicheiros.h"
+
+1641566045 c:\users\mnrod\onedrive\documentos\github\diretorias\include\sistemaficheiros.h
+	<iostream>
+	<string>
+	<dirent.h>
+	<time.h>
+	<sys/stat.h>
+	<vector>
+	"Directoria.h"
+	"Ficheiro.h"
+	"XMLWriter.h"
+	"XMLReader.h"
+
+1641664808 c:\users\mnrod\onedrive\documentos\github\diretorias\include\directoria.h
+	<list>
+	<map>
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"ObjetoGeral.h"
+	"Ficheiro.h"
+
+1641664808 c:\users\mnrod\onedrive\documentos\github\diretorias\include\objetogeral.h
+	<string>
+
+1641664808 c:\users\mnrod\onedrive\documentos\github\diretorias\include\ficheiro.h
+	<string>
+	"ObjetoGeral.h"
+
+1641221146 c:\users\mnrod\onedrive\documentos\github\diretorias\include\xmlwriter.h
+	<fstream>
+	"Directoria.h"
+	"Ficheiro.h"
+
+1641665565 c:\users\mnrod\onedrive\documentos\github\diretorias\include\xmlreader.h
+	<algorithm>
+	<iostream>
+	<fstream>
+	"Directoria.h"
+	"Ficheiro.h"
+
+1641664808 source:c:\users\mnrod\onedrive\documentos\github\diretorias\src\directoria.cpp
+	"Directoria.h"
+
+1641664809 source:c:\users\mnrod\onedrive\documentos\github\diretorias\src\ficheiro.cpp
+	"Ficheiro.h"
+	"Directoria.h"
+
+1641239926 source:c:\users\mnrod\onedrive\documentos\github\diretorias\src\xmlwriter.cpp
+	"XMLWriter.h"
+
+1641664809 source:c:\users\mnrod\onedrive\documentos\github\diretorias\src\objetogeral.cpp
+	"ObjetoGeral.h"
+
+1641666990 source:c:\users\mnrod\onedrive\documentos\github\diretorias\src\xmlreader.cpp
+	"XMLReader.h"
+	"SistemaFicheiros.h"
+	"Directoria.h"
+	"Ficheiro.h"
+
+1641666975 source:c:\users\mnrod\onedrive\documentos\github\diretorias\src\sistemaficheiros.cpp
+	"SistemaFicheiros.h"
+
